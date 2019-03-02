@@ -2,19 +2,21 @@
 #include<stdio.h>
 int main()
 {
-	int n,rem;
+	int n,i,rem[10];
 	
-	printf("Enter any Positive integer: ");
-	scanf("%d",&n);
+	printf("Enter any number in Decimal Number system: ");
+	scanf("%d", &n);
+	printf("The Binary Equivalent of %d is: ",n);
 	
-	for(i=0;i<=n;i++)
+	for(i=0;n>0;i++)
 	{
-		rem=n%10;
-		rev=rev*10+rem;
-		n=n/10;
+		rem[i]=n%2;
+		n=n/2;
 	}
-	if()
+	
+	for(i=i-1;i>=0;i--)
 	{
-		
+		printf("%d", rem[i]);
 	}
+	return 0;
 }

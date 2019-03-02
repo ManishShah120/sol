@@ -27,8 +27,6 @@
 //.22. WAP to print ascii values and their equivalent char using while loop?	//Not used while loop
 
 
-
-
 //16.WAP to print based on user input
        (a)	1 			(b)   *
 		2 2			      * *
@@ -39,40 +37,30 @@
 //23. WAP to print armstrong number between 1 to 500
 	  ex:	153 = (1*1*1)+(5*5*5)+(3*3*3)
 
-
-
 //3A.wap TO FIND THE SUM OF THE DIGITS ENTERED?
 
 //3B.WAP to obtain the digits entered?
-..........................................................................
 
+//18. WAP to accept any number upto six digits and print that in words
+      ex: 1265 IS one two six five
+//17. WAP that reads a positive integer and print its binary equivalent?
 
+//13.WAP to find the prime numbers between 2 to 100
 
-5.WAP to take number as input and display in triangular format. For ex if number is 5678 then
+//5.WAP to take number as input and display in triangular format. For ex if number is 5678 then
 5678
 678
 78
 8
 
-17. WAP that reads a positive integer and print its binary equivalent
-
-18. WAP to accept any number upto six digits and print that in words
-ex: 1265 IS one two six five
-
-.................................................................
-
-
-
-################################################################
-
-10.Print Floyd’s triangle
-1
-23
-456
-.
-.
-79……….91
-
+//10.Print Floyd’s triangle
+//1
+//23
+//456
+//.
+//.
+//79……….91
+..........................................................................
 
 19. WAP for the following
 	1
@@ -80,7 +68,15 @@ ex: 1265 IS one two six five
 	1331
 	14641
 
+	
 20. WAP to generate all combinations of 1 2 and 3 
+
+.................................................................
+
+
+
+################################################################
+
 
 
 2.WAP to print multiplication table of a number taken from user (Don’t use loop)?
@@ -91,7 +87,7 @@ ex: 1265 IS one two six five
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-************************13.WAP to find the prime numbers between 2 to 100
+
 
 
 
@@ -116,7 +112,7 @@ range 0-40
 27.WAP that would sort a list of names in alphabetical order
 
 28.WAP that will read and store the details of a list of students in the format 
-     Roll No.         Name      Marks obtained
+     		Roll No.         Name      Marks obtained
 		23		Ankit		45
 		24		Priya		55
 	produce the following output

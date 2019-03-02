@@ -10,18 +10,17 @@ int main()
 		isPrime=1;
 		
 		for(i=2;i<=j/2;i++)
-		{
-			if(j%i==0)
-			{			
-				isPrime=0;
-				break;
-			}
-		}
-		
+			{
+				if(j%i==0)
+				{			
+					isPrime=0;
+					break;
+				}
+			}		
 		if(isPrime == 1)
-		{
-			printf("%d \n", j);
-		}
+			{
+				printf("%d \n", j);
+			}
 	}
 
 	printf("\n");	

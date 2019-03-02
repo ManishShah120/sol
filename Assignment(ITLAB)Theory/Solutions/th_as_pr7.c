@@ -16,4 +16,4 @@ int main()
 		printf("%d is Odd.\n",a);
 	}
 	return 0;
-}s
+}
