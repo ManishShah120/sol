@@ -60,6 +60,12 @@
 //.
 //.
 //79……….91
+
+//24.WAP to insert one integer element at a given position in the array of integers
+//25a.WAP to delete a particular element from a group of elements, elements are arranged in an array.
+//25b.WAP to delete a particular element from a group of elements, elements are arranged in an array.
+//20. WAP to generate all combinations of 1 2 and 3 
+
 ..........................................................................
 
 19. WAP for the following
@@ -69,10 +75,6 @@
 	14641
 
 	
-20. WAP to generate all combinations of 1 2 and 3 
-
-.................................................................
-
 
 
 ################################################################
@@ -87,12 +89,6 @@
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
-
-
-
-
-
-
 9.Given a list of marks WAP to compute and print the number of students
 obtained more than 80 marks
 obtained more than 60 marks
@@ -103,9 +99,7 @@ range 61-80
 range 41-60
 range 0-40
 
-24.WAP to insert one integer element at a given position in the array of integers
 
-25.WAP to delete a particular element from a group of elements, elements are arranged in an array
 
 26.WAP to copy one string into another and count the number of characters copied.
 
@@ -116,7 +110,7 @@ range 0-40
 		23		Ankit		45
 		24		Priya		55
 	produce the following output
-(a) Alphabetical  list of names, roll numbers and   marks                                                                                                                                                                                                                                                               	obtained
+(a) Alphabetical  list of names, roll numbers and   marks obtained
 (b) List sorted on roll numbers
 (c) List sorted on marks(rank wise list)
 
