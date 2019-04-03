@@ -62,9 +62,15 @@
 //79……….91
 
 //24.WAP to insert one integer element at a given position in the array of integers
-//25a.WAP to delete a particular element from a group of elements, elements are arranged in an array.
-//25b.WAP to delete a particular element from a group of elements, elements are arranged in an array.
+//25a.WAP to delete a particular element from a group of elements, elements are arranged in an array.(by calling the number)
+//25b.WAP to delete a particular element from a group of elements, elements are arranged in an array.(by calling the index)
 //20. WAP to generate all combinations of 1 2 and 3 
+
+
+//2.WAP to print multiplication table of a number taken from user (Don’t use loop)?
+
+//26.WAP to copy one string into another and count the number of characters copied.
+
 
 ..........................................................................
 
@@ -74,18 +80,10 @@
 	1331
 	14641
 
-	
-
-
-################################################################
-
-
-
-2.WAP to print multiplication table of a number taken from user (Don’t use loop)?
-
 
 8.WAP to accept three numbers and print the largest number without using if condition.
 
+27.WAP that would sort a list of names in alphabetical order.
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
@@ -98,12 +96,6 @@ in range 81-100
 range 61-80
 range 41-60
 range 0-40
-
-
-
-26.WAP to copy one string into another and count the number of characters copied.
-
-27.WAP that would sort a list of names in alphabetical order
 
 28.WAP that will read and store the details of a list of students in the format 
      		Roll No.         Name      Marks obtained
